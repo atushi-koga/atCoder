@@ -1,0 +1,2 @@
+CREATE DATABASE pgsql_test ENCODING 'UTF-8' TEMPLATE template0;
+
